@@ -1,11 +1,11 @@
-# 🔵 Braille-to-Speech System
+#  Braille-to-Speech System
 ### Camera-Based English Braille Recognition with Gemini AI + gTTS
 
 > **Convert a photo of a Braille document into spoken audio** — using classical computer vision for dot detection, Google Gemini for OCR error correction, and gTTS for natural speech output.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [Demo](#-demo)
@@ -289,15 +289,10 @@ To contribute:
 3. Commit your changes
 4. Open a pull request with a clear description
 
----
 
-## 📄 License
 
-This project is open-source. See the repository for license details.
 
----
-
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [OpenCV](https://opencv.org/) — computer vision backbone
 - [Google Gemini](https://deepmind.google/technologies/gemini/) — AI OCR correction
